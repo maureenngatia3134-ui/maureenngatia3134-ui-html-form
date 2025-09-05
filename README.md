@@ -18,7 +18,7 @@ Provide a template that can be reused for real world user registration form.
 
 ## Implementation Notes
 - Uses **semantic HTML5** elements fieldset,legend,label,input,select, textarea.
-- Includes **validation** for required fields (Example like password, terms agreement).
+- Includes **validation** for required fields Example like password, terms agreement.
 - Covers **multiple input types**: text, email, number, date, color, range, checkbox, radio and file.
 
 
