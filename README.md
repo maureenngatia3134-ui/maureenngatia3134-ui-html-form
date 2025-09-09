@@ -24,5 +24,5 @@ Provide a template that can be reused for real world user registration form.
 
 ## How to view the form
 1. Clone the repository:
-   ```bash
+   gitbash
    git clone https://github.com/Maureenngatia3134-ui/maureenngatia3134-ui-html-form
